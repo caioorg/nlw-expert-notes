@@ -1,5 +1,7 @@
 ## Notas Voz a Texto - Projeto NLW Rocketseat
 
+![layout](./example.png)
+
 Este é o repositório do projeto Notas Voz a Texto desenvolvido durante a Next Level Week da Rocketseat. O objetivo deste projeto é criar um bloco de notas online que utiliza a tecnologia de reconhecimento de voz para converter áudio em texto.
 
 ### Tecnologias Utilizadas
@@ -21,7 +23,6 @@ Estilização Responsiva: Graças ao TailwindCSS, o projeto é responsivo, adapt
 #### Clone o Repositório:
 
 ```bash
-Copy code
 git clone https://github.com/seu-usuario/notas-voz-a-texto.git
 cd notas-voz-a-texto
 ```
@@ -29,12 +30,12 @@ cd notas-voz-a-texto
 #### Instale as Dependências:
 
 ```bash
-  pnpm install
+pnpm install
 ```
 #### Inicie o Servidor de Desenvolvimento:
 
 ```bash
-  pnpm run dev
+pnpm run dev
 ```
 #### Acesse a Aplicação:
 
